@@ -1,0 +1,24 @@
+p{
+color: aqua;
+font-style: unset;
+font-stretch: normal;
+font-size-adjust: initial;
+}
+strong{
+color: blue; 
+}
+.uno .tres{
+    background-color: red;
+  }
+  .uno>.tres{
+    font-size: 50px;
+  }
+  
+  .dos{
+    font-style: italic;
+    text-align: center;
+  }
+
+  body{
+      background-color: bisque;
+  }
