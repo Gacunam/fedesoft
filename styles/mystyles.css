@@ -9,17 +9,21 @@ color: blue;
 }
 .uno .tres{
     background-color: red;
+    font-style:oblique;
   }
   .uno>.tres{
     font-size: 50px;
+    font-family: fantasy;
   }
   
   .dos{
     font-style: italic;
     text-align: center;
+    transform-style: preserve-3d;
   }
 
   body{
       background-color: bisque;
+      border: solid black;
   }
   
